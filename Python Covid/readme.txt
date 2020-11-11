@@ -14,3 +14,4 @@ You can download it using the pip command given below.
 Note: python >= 3.6
 
 Type this command in your terminal to install and use this library.
+https://pypi.org/project/covid/
